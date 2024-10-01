@@ -11,9 +11,9 @@ person.prototype.run = function () {
 }
 
 
-let person1 = new person('jihan', 20, "bandung");
-let person2 = new person('amel', 25, 'bandung');
-let person3 = new person('ihsan', 24, "baubau")
+let person1 = new person('nadine', 20, "bandung");
+let person2 = new person('rachel', 25, 'bandung');
+let person3 = new person('yanzah', 24, "baubau");
 
 person1.run();
 person3.run();

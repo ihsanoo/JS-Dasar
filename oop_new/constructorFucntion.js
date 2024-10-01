@@ -15,8 +15,8 @@ person.prototype.eat = function () {
     console.log(`${this.name} is eating`)
 }
 
-const person1 = new person("ihsan" , 24);
-const person2 = new person('jihan', 20);
+const person1 = new person("yanzah" , 24);
+const person2 = new person('nadine', 20);
 
-console.log(person1.name); // output ihsan
-console.log(person2.name); // output jihan
+console.log(person1.name); // output yanzah
+console.log(person2.name); // output nadine

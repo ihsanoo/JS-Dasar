@@ -4,7 +4,7 @@ Buat Map bernama studentMap dan tambahkan pasangan kunci-nilai untuk name, age, 
  */
 let studentMap = new Map();
 
-studentMap.set("name", "jihan");
+studentMap.set("name", "nadine");
 studentMap.set("age", 20);
 studentMap.set("grade", "2nd Year");
 
@@ -42,7 +42,7 @@ Tambahkan kembali elemen ke studentMap dan gunakan for...of untuk mengiterasi da
  pasangan kunci-nilai.
  */
 
- studentMap.set("name", "jihan");
+ studentMap.set("name", "nadine");
  studentMap.set("age", 20);
  studentMap.set("grade", "2nd year");
 

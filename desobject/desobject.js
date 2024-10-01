@@ -1,8 +1,8 @@
 
 
 let person = {
-    nama : "ihsan",
-    age : 20,
+    nama : "bimo",
+    age : 26,
     gender : "male"
 }
 

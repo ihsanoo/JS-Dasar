@@ -1,12 +1,12 @@
 
 
 let person = {
-    firstName : "jihan",
-    lastName : "permata ayu",
+    firstName : "nadine",
+    lastName : "imanuel",
     age : 20
 };
 
-let firstName = "ihsan";
+let firstName = "nindi";
 let age = 24;
 
 

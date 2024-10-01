@@ -2,7 +2,7 @@
 let myMap = new Map();
 
 
-myMap.set('name', 'ihsan');
+myMap.set('name', 'yanzah');
 myMap.set('age', 24);
 
 

@@ -23,12 +23,12 @@ console.log(gabungan);
 
 
 let obj1 = {
-    nama : "ihsan",
+    nama : "yanzah",
     gender : "male"
 };
 
 let obj2 = {
-    "tahun lahir" : 2000,
+    "tahun lahir" : 2005,
     bulan : "januari"
 };
 

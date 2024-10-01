@@ -7,7 +7,7 @@ let user2 = { id: 2 };
 
 
 userMap.set(user1, 'alice');
-userMap.set(user2, 'ihsan');
+userMap.set(user2, 'yanzah');
 
 
 console.log(userMap.get(user1))
@@ -18,10 +18,10 @@ let map1 = new Map();
 let map2 = new Map();
 
 
-map1.set("name", "ihsan");
+map1.set("name", "yanzah");
 map1.set("age", 24);
 
-map2.set("nama", "jihan");
+map2.set("nama", "nadine");
 map2.set("umur", 20);
 
 

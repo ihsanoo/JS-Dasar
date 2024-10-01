@@ -30,7 +30,7 @@ console.log(copiedPerson);
 
 
 let person2 = {
-    nama : "jihan",
+    nama : "nadine",
     umur : 22
 }
 
@@ -40,7 +40,7 @@ console.log(combinePerson);
 
 
 let student = {
-    nama : "ihsan",
+    nama : "yanzah",
     kelas : 12
 }
 

@@ -10,4 +10,4 @@ for(let i = 1; i <= tinggi; i++) {
 }
 
 
-console.log("halo ini ihsan")
+console.log("hello wrold")

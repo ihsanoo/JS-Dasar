@@ -1,7 +1,7 @@
 let chace = new WeakMap();
 
-let user1 = {name : "jihan"};
-let user2 = {name : "ihsan"};
+let user1 = {name : "nadine"};
+let user2 = {name : "yanzah"};
 
 chace.set(user1, "profile1");
 chace.set(user2, "profile2");

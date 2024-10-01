@@ -1,10 +1,10 @@
 
 let identitas = {
-    nama : "ihsan",
-    umur : "24 tahun",
-    gf : "jihan permata ayu",
-    tinggi : 174,
-    berat : 60,
+    nama : "yanzah",
+    umur : "18 tahun",
+    gf : "Nadine",
+    tinggi : 179,
+    berat : 68,
     "tinggkat pendapatan" : "Lebih"
 };
 

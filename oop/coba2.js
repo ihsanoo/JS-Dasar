@@ -8,8 +8,8 @@ Person.prototype.greet = function() {
 }
 
 
-const person1 = new Person("ihsan", 24);
-const person2 = new Person("jihan Permata ayu", 20);
+const person1 = new Person("yanzah", 24);
+const person2 = new Person("nadine", 20);
 
 person2.greet();
 person1.greet();

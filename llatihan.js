@@ -9,9 +9,9 @@ for (let hewan of myArray) {
 }
 
 let obj = {
-    nama : "ihsan",
+    nama : "yanzah",
     umur : 24,
-    pacar : "jihan"
+    pacar : "nadine"
 }
 
 
@@ -29,9 +29,9 @@ for (let semuaBuah of buah) {
 
 let orang = new Map();
 
-orang.set("nama", "ihsan");
+orang.set("nama", "yanzah");
 orang.set("umur", 24);
-orang.set("pacar", "jihan");
+orang.set("pacar", "nadine");
 
 
 for(let[key, value] of orang) {

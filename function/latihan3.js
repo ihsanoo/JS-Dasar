@@ -14,9 +14,9 @@ function greeting(name, language) {
 
 
 
-console.log(greeting("ihsan", "english"));
-console.log(greeting("ihsan", "japanese"));
-console.log(greeting("ihsan", "spanish"));
+console.log(greeting("nadine", "english"));
+console.log(greeting("nadine", "japanese"));
+console.log(greeting("nadine", "spanish"));
 
 
 
@@ -24,8 +24,8 @@ console.log(greeting("ihsan", "spanish"));
 
 let user = {
     id : 24,
-    displayName : "yanzah",
-    realName : 'ihsan'
+    displayName : "nadine",
+    realName : 'nadine'
 }
 
 function introduce({displayName, realName}) {

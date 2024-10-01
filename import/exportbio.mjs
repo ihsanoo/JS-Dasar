@@ -1,7 +1,7 @@
 
 
-const name = "jihan";
+const name = "nadine";
 const age = 20;
-const address = "Purwakarta";
+const address = "Bandung";
 
 export {name, age, address};

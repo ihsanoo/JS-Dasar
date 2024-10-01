@@ -1,3 +1,3 @@
 export function myFunction() {
-    console.log("halo jihan, apa kabar?");
+    console.log("halo Nadine, apa kabar?");
 }

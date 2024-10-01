@@ -1,9 +1,9 @@
 
 let myMap = new Map();
 
-myMap.set("nama", "ihsan");
+myMap.set("nama", "yanzah");
 myMap.set("umur", 24);
-myMap.set("pacar", "jihan");
+myMap.set("pacar", "nadine");
 
 console.log(myMap);
 console.log(myMap.size);

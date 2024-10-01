@@ -60,7 +60,7 @@ Buat objek student dengan properti name, age, dan address yang merupakan objek d
 city dan postalCode. Gunakan destructuring untuk mengekstrak nilai name, city, dan postalCode dari objek student.
 */
 let student = {
-    name : "jihan",
+    name : "nadine",
     age : 20,
     address : {
         properti : 1,
@@ -84,7 +84,7 @@ Buat objek person dengan properti name, age, dan gender. Gunakan destructuring u
  */
 
   let person = {
-    nama : "ihsan",
+    nama : "fabian",
     umur : 24,
     gender : "male"
   };
