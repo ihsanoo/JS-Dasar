@@ -17,3 +17,9 @@ class person {
 }
 
 const person1 = new person("yanzah", 20);
+const person2 = new person("nadine", 20);
+
+
+person1.eat()
+person2.eat();
+
