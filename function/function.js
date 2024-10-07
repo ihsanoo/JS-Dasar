@@ -15,7 +15,7 @@ function greetingSpanish(name) {
     return `Hola, ${name}!`;
 }
 
-console.log(greetingSpanish("ihsan"))
+console.log(greetingSpanish("nadine"))
 
 
 console.log(greeting("John"));
